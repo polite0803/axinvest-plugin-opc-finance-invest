@@ -3,6 +3,6 @@
   "repo": "axinvest-plugin-opc-finance-invest",
   "plugin": "opc-finance-invest",
   "rustVersion": "3.0.1",
-  "pluginVersion": "1.0.0",
+  "pluginVersion": "3.0.1",
   "releaseManifestUrl": "https://github.com/polite0803/axinvest-plugin-opc-finance-invest/releases/latest/download/release.json"
 }
